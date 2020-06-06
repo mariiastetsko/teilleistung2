@@ -1,0 +1,41 @@
+[{
+    "code": "DE",
+    "country": "Germany",
+    "inhabitants": 82114224
+},
+{
+    "code": "IT",
+    "country": "Italy",
+    "inhabitants": 59359900
+},
+{
+    "code": "ES",
+    "country": "Spain",
+    "inhabitants": 46354321
+},
+{
+    "code": "FR",
+    "country": "France",
+    "inhabitants": 64979548
+},
+{
+    "code": "GB",
+    "country": "United Kingdom",
+    "inhabitants": 66181585
+},
+{
+    "code": "DK",
+    "country": "Denmark",
+    "inhabitants": 5733551
+},
+{
+    "code": "BE",
+    "country": "Belgium",
+    "inhabitants": 11431406
+},
+{
+    "code": "SE",
+    "country": "Sweden",
+    "inhabitants": 10327589
+}
+]
